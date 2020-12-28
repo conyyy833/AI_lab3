@@ -1,0 +1,21 @@
+ID,Name,Grade,scale,online consultation,Main departments,Number of patients,Service,quality,effectiveness
+1,Beijing Xuanwu Hospital,3,500,Ture,Neurology,5000,Best,Best,Good
+2,Xi'an Tangdu Hospital,3,650,Ture,Neurosurgery,4500,Good,Best,Best
+3,Fourth Military Medical University,3,700,FALSE,Stomatology,2000,Best,Best,Best
+4,Beijing Union Medical College Hospital,3,760,Ture,Otorhinolaryngology,6500,Best,Best,Best
+5,Shanghai Changhai Hospital,3,520,Ture,Cardiology,2480,Best,Good,Good
+6,Xi'an High-tech Hospital,2,300,Ture,International Medical Center,1078,Best,Ok,General
+7,Wuhan Tongji Hospital,3,699,Ture,Obstetrics and Gynecology,632,General,Best,Best
+8,Chongqing Xinqiao Hospital,3,328,Ture,Neurosurgery,1280,Good,Best,Ok
+9,Tianjin Eye Hospital,3,676,FALSE,Ophthalmology,3100,General,Good,General
+10,Beijing Obstetrics and Gynecology Hospital,3,400,Ture,Obstetrics and Gynecology,2800,Ok,Good,Good
+11,Shanghai Huashan Hospital,3,777,Ture,Neurosurgery,6454,Ok,General,Good
+12,Xi'an Red Cross Hospital,3,280,Ture,Orthopedics,1020,Good,Good,Ok
+13,PLA 301 Hospital,3,268,FALSE,Otorhinolaryngology,1007,Good,Ok,Good
+14,Sichuan West China Hospital,3,680,Ture,Stomatology,4999,Best,Best,General
+15,"Sanxiang Hospital, Zhongshan City",1,85,FALSE,Gynecology,290,Ok,General,Best
+16,Guangzhou Cancer Hospital,3,620,Ture,Oncology,3836,Best,Good,Best
+17,Shanghai Changzheng Hospital,3,211,Ture,Orthopedics,990,Good,General,Good
+18,Xi'an Plastic Surgery Hospital,1,90,FALSE,Plastic Surgery,480,Ok,Ok,Ok
+19,Shanghai Hospital of Traditional Chinese Medicine,3,599,Ture,Neurology,1000,General,Good,Ok
+20,Xi'an Huiren Hospital,1,80,FALSE,Dermatology,300,Ok,Ok,Ok
